@@ -1,0 +1,29 @@
+# Unity 项目自动忽略文件
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio 生成文件
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# 构建文件
+*.apk
+*.aab
+*.unitypackage
+
+# 其他
+.settings/
+.prefab
+.prefab.meta
+.idea/
